@@ -6,3 +6,6 @@
 
 ## Link
 [![GitHub Pages](https://img.shields.io/badge/Portfolio-GitHub.io-181717?style=flat&logo=github&logoColor=white)](https://donginsong.github.io)
+
+## License
+Copyright Sen Li, 2023. Licensed under an MIT license.
