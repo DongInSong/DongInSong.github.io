@@ -6,10 +6,13 @@ RSS 피드 통해 수집된 뉴스 데이터를 바탕으로 해당 시간대에
 - <strong>Kumoh Bus</strong>, 
 국토교통부 제공 공공데이터 API를 활용하여 교내를 거쳐가는 버스의 각종 실시간 정보와 노선도 및 알림 기능 등을 제공하는 모바일 애플리케이션입니다. [![Client](https://img.shields.io/badge/Client-181717?logo=github)](https://github.com/DongInSong/KumohBus)
 
-#### Personal
+#### Individual
 
 - <strong>Express & Mongo</strong>, 
 Express.js와 MongoDB를 사용하여 구축된 에어비앤비(Airbnb)와 유사한 백엔드 애플리케이션입니다. [![Code](https://img.shields.io/badge/Code-181717?logo=github)](https://github.com/DongInSong/airbnb_mongo)
 
 - <strong>Spring Boot & JPA</strong>, 
 Java Spring Boot와 JPA(Hibernate)를 사용하여 구현된 에어비앤비(Airbnb)와 유사한 백엔드 애플리케이션입니다. [![Code](https://img.shields.io/badge/Code-181717?logo=github)](https://github.com/DongInSong/airbnb_jpa)
+
+- <strong>ATmega328</strong>, 
+마이크로컨트롤러의 저수준 하드웨어 제어, 레지스터 기반 프로그래밍, 센서 제어 및 통신 프로토콜 구현 프로젝트입니다. [![Code](https://img.shields.io/badge/Code-181717?logo=github)](https://github.com/DongInSong/ATmega328)
