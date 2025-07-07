@@ -1,6 +1,7 @@
 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DongInSong)  
 
-[![DongInSong](https://img.shields.io/badge/Donnie-github-brown?logo=github)](https://github.com/DongInSong)
+
 
 개발 프로세스를 이해하고, 효율적인 서버 운영을 고민하는 예비 백엔드 개발자.
 
