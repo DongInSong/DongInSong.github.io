@@ -8,6 +8,9 @@ RSS 피드 통해 수집된 뉴스 데이터를 바탕으로 해당 시간대에
 
 #### Individual
 
+- <strong>Mini-Redis</strong>, 
+C++와 Boost.Asio를 사용하여 비동기 TCP 서버를 구축하고 Redis의 통신 프로토콜과 핵심 기능을 구현한 프로젝트입니다. Python의 표준 Redis 클라이언트 라이브러리인 `redis-py`를 통해 기능을 검증하였습니다. [![Code](https://img.shields.io/badge/Code-181717?logo=github)](https://github.com/DongInSong/mini-redis)
+
 - <strong>Express & Mongo</strong>, 
 Express.js와 MongoDB를 사용하여 구축된 에어비앤비(Airbnb)와 유사한 백엔드 애플리케이션입니다. [![Code](https://img.shields.io/badge/Code-181717?logo=github)](https://github.com/DongInSong/airbnb_mongo)
 
